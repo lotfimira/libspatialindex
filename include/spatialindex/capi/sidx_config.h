@@ -48,6 +48,10 @@
    #define STRDUP _strdup
    #include <windows.h>
 
+   // Added by Lotfi
+   #include <stdint.h>
+   //------------------
+
 #else
 
    #include <stdint.h>
