@@ -61,3 +61,10 @@ install_manifest.txt
 docs/doxygen/html/
 docs/doxygen/xml
 src/libspatialindex.pc
+Backup/
+spatialindex-vc/Debug/
+spatialindex-vc/Release/
+TestLibSpatialIndex/x64/
+*.sdf
+*.opensdf
+UpgradeLog.htm
